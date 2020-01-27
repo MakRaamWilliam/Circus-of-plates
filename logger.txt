@@ -1,0 +1,30 @@
+Jan 27, 2020 4:44:14 PM eg.edu.alexu.csd.oop.game.object.Clown <init>
+INFO: The clown has been created
+Jan 27, 2020 4:44:14 PM eg.edu.alexu.csd.oop.game.object.DynamicLoader <init>
+INFO: The shapes classes have been dynamically loaded
+Jan 27, 2020 4:44:14 PM eg.edu.alexu.csd.oop.game.object.DynamicLoader <init>
+INFO: The shapes classes have been dynamically loaded
+Jan 27, 2020 4:44:14 PM eg.edu.alexu.csd.oop.game.object.DynamicLoader <init>
+INFO: The shapes classes have been dynamically loaded
+Jan 27, 2020 4:44:14 PM eg.edu.alexu.csd.oop.game.object.DynamicLoader <init>
+INFO: The shapes classes have been dynamically loaded
+Jan 27, 2020 4:44:14 PM eg.edu.alexu.csd.oop.game.object.DynamicLoader <init>
+INFO: The shapes classes have been dynamically loaded
+Jan 27, 2020 4:44:14 PM eg.edu.alexu.csd.oop.game.object.DynamicLoader <init>
+INFO: The shapes classes have been dynamically loaded
+Jan 27, 2020 4:44:14 PM eg.edu.alexu.csd.oop.game.object.ShapeFactory getShape
+INFO: New red ball has been created
+Jan 27, 2020 4:44:14 PM eg.edu.alexu.csd.oop.game.object.ShapeFactory getShape
+INFO: New pink ball has been created
+Jan 27, 2020 4:44:14 PM eg.edu.alexu.csd.oop.game.object.ShapeFactory getShape
+INFO: New pink ball has been created
+Jan 27, 2020 4:44:14 PM eg.edu.alexu.csd.oop.game.object.ShapeFactory getShape
+INFO: New blue gift has been created
+Jan 27, 2020 4:44:16 PM eg.edu.alexu.csd.oop.game.object.ShapeFactory getShape
+INFO: New blue gift has been created
+Jan 27, 2020 4:44:17 PM eg.edu.alexu.csd.oop.game.object.ShapeFactory getShape
+INFO: New red ball has been created
+Jan 27, 2020 4:44:18 PM eg.edu.alexu.csd.oop.game.object.ShapeFactory getShape
+INFO: New blue ball has been created
+Jan 27, 2020 4:44:20 PM eg.edu.alexu.csd.oop.game.object.ShapeFactory getShape
+INFO: New pink ball has been created
